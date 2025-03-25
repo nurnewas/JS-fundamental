@@ -6,7 +6,7 @@ console.log(2);
 // setTimeout(DoSomething);
 setTimeout(() => {
   console.log("i am laggy!");
-},4000);
+}, 4000);
 console.log(4);
 console.log(6);
 function DoSomething() {
